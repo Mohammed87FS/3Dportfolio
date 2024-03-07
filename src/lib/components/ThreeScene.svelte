@@ -60,7 +60,7 @@
  `;
 
   const profileContent = `
-<div class="content" style="font-size: 5rem;  font-family: 'Press Start 2P', cursive; padding: 20px; margin-bottom: 150px">
+<div class="content" style="font-size: 4.6rem;  font-family: 'Press Start 2P', cursive; padding: 20px; margin-bottom: 150px">
   <h1 style="  text-align: center; text-transform: uppercase;font-family: 'Press Start 2P', cursive; margin-bottom: 200px; font-size= 3rem;  color: #FFAA00; text-shadow: 
     1px 1px 0 #FF0000, 
     2px 2px 0 #FF0000, 
@@ -80,27 +80,27 @@
    About me
   </h1>
 
-  <ul style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px; ">
-    <li style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px;"><strong style="color: #FFD700;">Name:</strong>
+  <ul style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px; ">
+    <li style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px;"><strong style="color: #FFD700;">Name:</strong>
       <ul>
-        <li style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px;">Mohammed Alhamadani.</li>
+        <li style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px;">Mohammed Alhamadani.</li>
       </ul>
     </li>
-    <li style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px;"><strong style="color: #FFD700;">Study Programme:</strong>
+    <li style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px;"><strong style="color: #FFD700;">Study Programme:</strong>
       <ul>
-        <li style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px;">Creative Computing at FH St. Pölten.</li>
+        <li style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px;">Creative Computing at FH St. Pölten.</li>
       </ul>
     </li>
    
-    <li style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px;"><strong style="color:#FFD700;">Interests:</strong>
+    <li style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px;"><strong style="color:#FFD700;">Interests:</strong>
       <ul>
-        <li style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px;">Tech, Mathes, Art, Music, Board-Games. </li>
+        <li style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px;">Tech, Mathes, Art, Music, Board-Games. </li>
       </ul>
     </li>
 
-    <li style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px;"><strong style="color:#FFD700;">Languages:</strong>
+    <li style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px;"><strong style="color:#FFD700;">Languages:</strong>
       <ul>
-        <li style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px;">German, English, Arabic.</li>
+        <li style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px;">German, English, Arabic.</li>
       </ul>
     </li>
    
@@ -111,7 +111,7 @@
   const skillsContent = `
 
 
-    <div class="content" style="font-size: 5rem; font-family: 'Press Start 2P', cursive; padding: 20px; margin-bottom: 20px;">
+    <div class="content" style="font-size: 4.6rem; font-family: 'Press Start 2P', cursive; padding: 20px; margin-bottom: 20px;">
       <h1 style="  text-align: center; text-transform: uppercase;font-family: 'Press Start 2P', cursive; margin-bottom: 200px; font-size= 3rem;  color: #FFAA00; text-shadow: 
     1px 1px 0 #FF0000, 
     2px 2px 0 #FF0000, 
@@ -130,24 +130,24 @@
     15px 15px 0 #FF0000;">
  My Skills
   </h1>
-    <ul style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px; ">
-        <li style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px;"><strong style="color: #FFD700;">Programming-Skills:</strong>
+    <ul style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px; ">
+        <li style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px;"><strong style="color: #FFD700;">Programming-Skills:</strong>
             <ul>
-                <li style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px;">JavaScript, Node js, Vue, Nuxt, Sveltekit, React, Three js.</li>
-                <li style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px;">Python.</li>
-                <li style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px;">Java & JavaFx.</li>
-                <li style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px;">Kotlin.</li>
-                <li style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px;">C & Arduino.</li>
+                <li style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px;">JavaScript, Node js, Vue, Nuxt, Sveltekit, React, Three js.</li>
+                <li style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px;">Python.</li>
+                <li style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px;">Java & JavaFx.</li>
+                <li style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px;">Kotlin.</li>
+                <li style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px;">C & Arduino.</li>
             </ul>
         </li>
-        <li style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px;"><strong strong style="color: #FFD700;"> Other Professional Skills:</strong>
+        <li style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px;"><strong strong style="color: #FFD700;"> Other Professional Skills:</strong>
             <ul>
-                <li style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px;">Agile Methodologies & Team Dynamics.</li>
-                <li style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px;">Mathematics. </li>
-                <li style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px;">ML. </li>
-                <li style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px;">UI/UX Design.</li>
-                <li style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px;">HCI.</li>
-                <li style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px;">3D Modeling in Blender.</li>
+                <li style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px;">Agile Methodologies & Team Dynamics.</li>
+                <li style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px;">Mathematics. </li>
+                <li style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px;">ML. </li>
+                <li style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px;">UI/UX Design.</li>
+                <li style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px;">HCI.</li>
+                <li style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px;">3D Modeling in Blender.</li>
              
            
 
@@ -160,7 +160,7 @@
 `;
 
   const projectsContent = `
-  <div class="content" style="font-size: 5rem; font-family: 'Press Start 2P', cursive; padding: 20px; margin-bottom: 20px;">
+  <div class="content" style="font-size: 4.6rem; font-family: 'Press Start 2P', cursive; padding: 20px; margin-bottom: 20px;">
   <h1 style="text-align: center; text-transform: uppercase; font-family: 'Press Start 2P', cursive; margin-bottom: 300px; color: #FFAA00; text-shadow: 
   1px 1px 0 #FF0000, 
   2px 2px 0 #FF0000, 
@@ -181,7 +181,7 @@
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 60px; margin-left: 0px">
 
   <div style="margin-bottom: 20px;">
-    <button id="my-button1" style="display: flex; flex-direction: column; align-items: center; justify-content: center; font-size: 4rem; line-height: 1.5; width: 100%;">
+    <button id="my-button1" style="display: flex; flex-direction: column; align-items: center; justify-content: center; font-size: 4.6rem; line-height: 1.5; width: 100%;">
       <img src="/games.svg" alt="Fortress Icon" style="height: 250px; width: auto; filter: brightness(0) invert(1);">
       <strong style="color: #FFD700;">Fortress</strong>
     </button>
@@ -189,7 +189,7 @@
 
 
   <div style="margin-bottom: 20px;">
-    <button id="my-button2" style="display: flex; flex-direction: column; align-items: center; justify-content: center; font-size: 4rem; line-height: 1.5; width: 100%;">
+    <button id="my-button2" style="display: flex; flex-direction: column; align-items: center; justify-content: center; font-size: 4.6rem; line-height: 1.5; width: 100%;">
       <img src="/ai.svg" alt="E-Commerce Icon" style="height: 250px; width: auto; filter: brightness(0) invert(1);">
       <strong style="color: #FFD700;">E-Commerce</strong>
     </button>
@@ -197,7 +197,7 @@
 
 
   <div style="margin-bottom: 20px;">
-    <button id="my-button3" style="display: flex; flex-direction: column; align-items: center; justify-content: center; font-size: 4rem; line-height: 1.5; width: 100%;">
+    <button id="my-button3" style="display: flex; flex-direction: column; align-items: center; justify-content: center; font-size: 4.6rem; line-height: 1.5; width: 100%;">
       <img src="/web.svg" alt="MyGymBro Icon" style="height: 250px; width: auto; filter: brightness(0) invert(1);">
       <strong style="color: #FFD700;">MyGymBro</strong>
     </button>
@@ -205,7 +205,7 @@
 
   
   <div style="margin-bottom: 20px;">
-    <button id="my-button4" style="display: flex; flex-direction: column; align-items: center; justify-content: center; font-size: 4rem; line-height: 1.5; width: 100%;">
+    <button id="my-button4" style="display: flex; flex-direction: column; align-items: center; justify-content: center; font-size: 4.6rem; line-height: 1.5; width: 100%;">
       <img src="/android.svg" alt="Mathemello Icon" style="height: 250px; width: auto; filter: brightness(0) invert(1);">
       <strong style="color: #FFD700;">Mathemello</strong>
     </button>
@@ -213,7 +213,7 @@
 
  
   <div style="margin-bottom: 20px;">
-    <button id="my-button5" style="display: flex; flex-direction: column; align-items: center; justify-content: center; font-size: 4rem; line-height: 1.5; width: 100%;">
+    <button id="my-button5" style="display: flex; flex-direction: column; align-items: center; justify-content: center; font-size: 4.6rem; line-height: 1.5; width: 100%;">
       <img src="/web.svg" alt="Disconnect Icon" style="height: 250px; width: auto; filter: brightness(0) invert(1);">
       <strong style="color: #FFD700;">Disconnect</strong>
     </button>
@@ -221,7 +221,7 @@
 
 
   <div style="margin-bottom: 20px;">
-    <button id="my-button7" style="display: flex; flex-direction: column; align-items: center; justify-content: center; font-size: 4rem; line-height: 1.5; width: 100%;">
+    <button id="my-button7" style="display: flex; flex-direction: column; align-items: center; justify-content: center; font-size: 4.6rem; line-height: 1.5; width: 100%;">
       <img src="/design.svg" alt="Rosetta Icon" style="height: 250px; width: auto; filter: brightness(0) invert(1);">
       <strong style="color: #FFD700;">Rosetta</strong>
     </button>
@@ -229,7 +229,7 @@
 
 
   <div style="margin-bottom: 20px;">
-    <button id="my-button8" style="display: flex; flex-direction: column; align-items: center; justify-content: center; font-size: 4rem; line-height: 1.5; width: 100%;">
+    <button id="my-button8" style="display: flex; flex-direction: column; align-items: center; justify-content: center; font-size: 4.6rem; line-height: 1.5; width: 100%;">
       <img src="/web.svg" alt="Portfolio Icon" style="height: 250px; width: auto; filter: brightness(0) invert(1);">
       <strong style="color: #FFD700;">Portfolio</strong>
     </button>
@@ -242,7 +242,7 @@
 
 `;
 
-  const Fortress = `<div class="content" style="font-size: 5rem; font-family: 'Press Start 2P', cursive; padding: 20px; margin-bottom: 20px; ">
+  const Fortress = `<div class="content" style="font-size: 4.6rem; font-family: 'Press Start 2P', cursive; padding: 20px; margin-bottom: 20px; ">
   <h1 style="text-align: center; text-transform: uppercase; font-family: 'Press Start 2P', cursive; margin-bottom: 200px; color: #FFA500; text-shadow: 
     1px 1px 0 #FF0000, 
     2px 2px 0 #FF0000, 
@@ -262,24 +262,19 @@
     Fortress
   </h1>
 
-  <p style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px;">A 2D game where earth as a spaceship battles global threats. Inspired by "Space Invaders" with advanced weapons and tech.</p>
-  <ul style="font-size: 4rem; line-height: 1.5; margin-bottom: 50px;">
-    <li style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px;"><strong style="color: #FFD700;">Player's Role:</strong>
+  <p style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px;">A 2D game where earth as a spaceship battles global threats. Inspired by "Space Invaders" with advanced weapons and tech.</p>
+  <ul style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 50px;">
+  
+    <li style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px;"><strong style="color: #FFD700;">Programming & Tech:</strong>
       <ul>
-        <li style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px;">Guide Earth, defeat enemies, ensure survival.</li>
-        <li style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px;">Critical strategy and thinking for victory.</li>
-      </ul>
-    </li>
-    <li style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px;"><strong style="color: #FFD700;">Programming & Tech:</strong>
-      <ul>
-        <li style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px;">Built with JavaScript and HTML5 Canvas.</li>
-        <li style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px;">Dynamic gameplay and immersive visuals.</li>
+        <li style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px;">Built with JavaScript and HTML5 Canvas.</li>
+        <li style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px;">Dynamic gameplay and immersive visuals.</li>
       </ul>
     </li>
   </ul>
-  <button id="my-button9" style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px; width: 100%;" ><strong style=" color: #B0FFB0;" >See images </strong></button>
+  <button id="my-button9" style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px; width: 100%;" ><strong style=" color: #B0FFB0;" >See images </strong></button>
 
-  <button id="my-button6" style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px; width: 100%;"><strong style="color:#B0FFB0;">Back</strong></button>
+  <button id="my-button6" style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px; width: 100%;"><strong style="color:#B0FFB0;">Back</strong></button>
 </div>
 
 
@@ -287,7 +282,7 @@
 
   const MyGymBro = `
  
-<div class="content" style="font-size: 5rem; font-family: 'Press Start 2P', cursive; padding: 20px; margin-bottom: 20px; ">
+<div class="content" style="font-size: 4.6rem; font-family: 'Press Start 2P', cursive; padding: 20px; margin-bottom: 20px; ">
   <h1 style="  text-align: center; text-transform: uppercase;font-family: 'Press Start 2P', cursive;margin-bottom: 200px; font-size= 3rem;  color: #FFAA00; text-shadow: 
     1px 1px 0 #FF0000, 
     2px 2px 0 #FF0000, 
@@ -306,30 +301,29 @@
     15px 15px 0 #FF0000;">
  MyGymBro
   </h1>
-  <p style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px;"> A user-friendly platform for tracking and analyzing personal fitness data. </p>
+  <p style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px;"> A platform for tracking and analyzing personal fitness data. </p>
 
-  <ul style="font-size: 4rem; line-height: 1.5; margin-bottom: 50px;">
-    <li style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px;"><strong style="color: #FFD700;">Key Features:</strong>
+  <ul style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 50px;">
+    <li style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px;"><strong style="color: #FFD700;">Key Features:</strong>
       <ul>
-        <li style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px;">Effortless Registration and Login process.</li>
-        <li style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px;">Personal Profile with Edit and Delete options.</li>
-        <li style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px;">Calories Calculator for food items with historical data visualization.</li>
-        <li style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px;">Goal Setting to create and track personalized fitness objectives.</li>
-        <li style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px;">BMI Calculator for health insights.</li>
+        <li style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px;"> Registration and Login process.</li>
+        <li style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px;">Calories Calculator for food items with historical data visualization.</li>
+        <li style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px;">Goal Setting and tracking personalized fitness objectives.</li>
+        <li style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px;">BMI Calculator.</li>
       </ul>
     </li>
-    <li style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px;"><strong style="color: #FFD700;">Technology Stack:</strong>
+    <li style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px;"><strong style="color: #FFD700;">Technology Stack:</strong>
       <ul>
-        <li style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px;">Node.js and Express for server-side logic.</li>
-        <li style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px;">EJS for dynamic page rendering.</li>
-        <li style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px;">SQLite for database management.</li>
+        <li style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px;">Node.js and Express for server-side logic.</li>
+        <li style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px;">EJS for dynamic page rendering.</li>
+        <li style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px;">SQLite for database management.</li>
       </ul>
     </li>
   </ul>
 
-  <button id="my-button12" style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px; width: 100%;" ><strong style=" color: #B0FFB0;" >See an image </strong></button>
+  <button id="my-button12" style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px; width: 100%;" ><strong style=" color: #B0FFB0;" >See an image </strong></button>
 
-<button id="my-button6" style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px; width: 100%;"><strong style="color:#B0FFB0;">Back</strong> </button>
+<button id="my-button6" style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px; width: 100%;"><strong style="color:#B0FFB0;">Back</strong> </button>
 </div>
 
 
@@ -337,7 +331,7 @@
 `;
 
   const Mathemello = `
-<div class="content" style="font-size: 5rem;  font-family: 'Press Start 2P', cursive; padding: 20px; margin-bottom: 20px; ">
+<div class="content" style="font-size: 4.6rem;  font-family: 'Press Start 2P', cursive; padding: 20px; margin-bottom: 20px; ">
   <h1 style="  text-align: center; text-transform: uppercase;font-family: 'Press Start 2P', cursive;margin-bottom: 200px; font-size= 3rem;  color: #FFAA00; text-shadow: 
     1px 1px 0 #FF0000, 
     2px 2px 0 #FF0000, 
@@ -356,21 +350,21 @@
     15px 15px 0 #FF0000;">
 Mathemello
   </h1>
-  <p style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px;">A mobile app crafted with a user-friendly interface, facilitating transitions between user queries and administrative updates. Utilizing Kotlin for its development, while Firebase provides a reliable backend for real-time data handling and authentication.</p>
-    <ul style="font-size: 4rem; line-height: 1.5; margin-bottom: 50px;">
-        <li style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px;"><strong style="color: #FFD700;">Key Features:</strong>
+  <p style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px;">A mobile user-friendly app , serves as a platform for Mathes-enjoyers. Utilizing Kotlin for its development.</p>
+    <ul style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 50px;">
+        <li style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px;"><strong style="color: #FFD700;">Key Features:</strong>
             <ul>
-                <li style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px;">Secure login system with Firebase authentication.</li>
-                <li style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px;">Role-based access for users and admin.</li>
-                <li style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px;">User request submission and tracking.</li>
-                <li style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px;">Admin features for request management and post creation.</li>
-                <li style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px;">Direct feedback mechanism for request acceptance.</li>
+                <li style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px;"> Login/Register with Firebase.</li>
+                <li style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px;">Role-based access for users and admin.</li>
+                <li style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px;">User request submission and tracking.</li>
+                <li style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px;">Admin features for request management and post creation.</li>
+                <li style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px;">Direct feedback for request acceptance.</li>
             </ul>
         </li>
     </ul>
-    <button id="my-button11" style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px; width: 100%;" ><strong style=" color: #B0FFB0;" >See images </strong></button>
+    <button id="my-button11" style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px; width: 100%;" ><strong style=" color: #B0FFB0;" >See images </strong></button>
 
- <button id="my-button6" style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px; width: 100%;"><strong style="color:#B0FFB0;">Back</strong> </button>
+ <button id="my-button6" style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px; width: 100%;"><strong style="color:#B0FFB0;">Back</strong> </button>
 </div>
 
 
@@ -378,7 +372,7 @@ Mathemello
 `;
 
   const Commerce = `
-<div class="content" style="font-size: 5rem;  font-family: 'Press Start 2P', cursive; padding: 20px; margin-bottom: 20px; ">
+<div class="content" style="font-size: 4.6rem;  font-family: 'Press Start 2P', cursive; padding: 20px; margin-bottom: 20px; ">
   <h1 style="  text-align: center; text-transform: uppercase;font-family: 'Press Start 2P', cursive; margin-bottom: 200px; font-size= 3rem;  color: #FFAA00; text-shadow: 
     1px 1px 0 #FF0000, 
     2px 2px 0 #FF0000, 
@@ -397,8 +391,8 @@ Mathemello
     15px 15px 0 #FF0000;">
 E-Commerce
   </h1>
-  <p style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px;">A machine learning model for automatically sorting e-commerce texts into categories like Electronics, Clothing & Accessories, Books. This approach aimed to bypass manual classification inefficiencies, thereby boosting efficiency and user experience.</p>
-    <ul style="font-size: 4rem; line-height: 1.5; margin-bottom: 50px;">
+  <p style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px;">A ML model for sorting e-commerce texts into categories.</p>
+    <ul style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 50px;">
         <li style="margin-bottom: 10px;"><strong style="color: #FFD700;">Methodology:</strong>
             <ul>
                 <li style="margin-bottom: 10px;">Preprocessing with Spacy and TfidfVectorizer.</li>
@@ -408,14 +402,14 @@ E-Commerce
         </li>
         <li style="margin-bottom: 10px;"><strong style="color: #FFD700;">Evaluation:</strong>
             <ul>
-                <li style="margin-bottom: 10px;">Used accuracy, F1 score, and confusion matrices.</li>
+                <li style="margin-bottom: 10px;">Accuracy, F1 score, and confusion matrices.</li>
                 <li style="margin-bottom: 10px;">RandomForest outperformed in F1 score.</li>
             </ul>
         </li>
     </ul>
-    <button id="my-button10" style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px; width: 100%;" ><strong style=" color: #B0FFB0;" >See an image </strong></button>
+    <button id="my-button10" style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px; width: 100%;" ><strong style=" color: #B0FFB0;" >See an image </strong></button>
 
- <button id="my-button6" style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px; width: 100%;"><strong style=" color:#B0FFB0;">Back</strong> </button>
+ <button id="my-button6" style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px; width: 100%;"><strong style=" color:#B0FFB0;">Back</strong> </button>
 </div>
 
 
@@ -423,7 +417,7 @@ E-Commerce
 `;
 
   const Disconnect = `
-<div class="content" style="font-size: 5rem;  font-family: 'Press Start 2P', cursive; padding: 20px; margin-bottom: 20px; ">
+<div class="content" style="font-size: 4.6rem;  font-family: 'Press Start 2P', cursive; padding: 20px; margin-bottom: 20px; ">
   <h1 style="  text-align: center; text-transform: uppercase;font-family: 'Press Start 2P', cursive; margin-bottom: 200px; font-size= 3rem;  color: #FFAA00; text-shadow: 
     1px 1px 0 #FF0000, 
     2px 2px 0 #FF0000, 
@@ -442,14 +436,14 @@ E-Commerce
     15px 15px 0 #FF0000;">
     Disconnect
   </h1>
-  <p style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px;">The device, termed "Disconnect," is engineered to minimize distractions. Equipped with a Raspberry Pi 4, programmed with Nuxt js. It's designed for users seeking focused and tranquil interaction with technology.</p>
-    <ul style="font-size: 4rem; line-height: 1.5; margin-bottom: 50px;">
+  <p style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px;">The device, termed "Disconnect," is made to minimize distractions. Equipped with a Raspberry Pi 4, programmed with Nuxt js. It's designed for users seeking focused interaction with technology.</p>
+    <ul style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 50px;">
         <li style="margin-bottom: 10px;"><strong style="color: #FFD700;">Key Features:</strong>
             <ul>
                 
                 <li style="margin-bottom: 10px;">Pocketbase for storage.</li>
                 <li style="margin-bottom: 10px;">Clock with alarm, timer, and stopwatch.</li>
-                <li style="margin-bottom: 10px;">GPT API powered chatbot for distraction-free interaction.</li>
+                <li style="margin-bottom: 10px;">GPT API.</li>
                 <li style="margin-bottom: 10px;">Calendar for managing schedules.</li>
                 <li style="margin-bottom: 10px;">Note-taking capabilities.</li>
                 <li style="margin-bottom: 10px;">Weather updates.</li>
@@ -457,9 +451,9 @@ E-Commerce
         </li>
     </ul>
 
-    <button id="my-button13" style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px; width: 100%;" ><strong style=" color: #B0FFB0;" >See an image </strong></button>
+    <button id="my-button13" style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px; width: 100%;" ><strong style=" color: #B0FFB0;" >See an image </strong></button>
 
-<button id="my-button6" style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px; width: 100%;"><strong style="color:#B0FFB0;">Back</strong> </button>
+<button id="my-button6" style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px; width: 100%;"><strong style="color:#B0FFB0;">Back</strong> </button>
 </div>
 
 
@@ -467,7 +461,7 @@ E-Commerce
 `;
 
   const Rosetta = `
-<div class="content" style="font-size: 5rem;  font-family: 'Press Start 2P', cursive; padding: 20px; margin-bottom: 20px; ">
+<div class="content" style="font-size: 4.6rem;  font-family: 'Press Start 2P', cursive; padding: 20px; margin-bottom: 20px; ">
   <h1 style="  text-align: center; text-transform: uppercase;font-family: 'Press Start 2P', cursive; margin-bottom: 200px; font-size= 3rem;  color: #FFAA00; text-shadow: 
     1px 1px 0 #FF0000, 
     2px 2px 0 #FF0000, 
@@ -485,22 +479,22 @@ E-Commerce
     14px 14px 0 #FF0000, 
     15px 15px 0 #FF0000;">
     Rosetta
-  </h1>  <p style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px;">Rosetta (UX/UI project) aims to revolutionize language learning for travelers, enabling them to master 100 essential words in a new language within a week, through engaging, AI-enhanced methods.</p>
-  <ul style="font-size: 4rem; line-height: 1.5; margin-bottom: 50px;">
-    <li style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px;"><strong style="color: #FFD700;">Key Features:</strong>
+  </h1>  <p style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px;">Rosetta (UX/UI project) aims to revolutionize language learning for travelers, enabling them to master 100 essential words in a new language within a week..</p>
+  <ul style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 50px;">
+    <li style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px;"><strong style="color: #FFD700;">Key Features:</strong>
       <ul>
-        <li style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px;">Categorized Learning Modules for focused study.</li>
-        <li style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px;">Interactive Dialogues to enhance word retention.</li>
-        <li style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px;">Milestone Tests to validate learning progress.</li>
-        <li style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px;">AI-Assisted Practice for realistic conversation simulation.</li>
-        <li style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px;">AI-Powered Instant Voice Translation as an advanced feature.</li>
+        <li style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px;">Categorized Learning Modules for focused study.</li>
+        <li style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px;">Interactive Dialogues to enhance word retention.</li>
+        <li style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px;">Milestone Tests to validate learning progress.</li>
+        <li style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px;">AI-Assisted Practice for realistic conversation simulation.</li>
+
       </ul>
     </li>
   </ul>
 
-  <button id="my-button14" style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px; width: 100%;" ><strong style=" color: #B0FFB0;" >See images </strong></button>
+  <button id="my-button14" style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px; width: 100%;" ><strong style=" color: #B0FFB0;" >See images </strong></button>
 
-<button id="my-button6" style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px; width: 100%;"><strong style="color:#B0FFB0;">Back</strong> </button>
+<button id="my-button6" style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px; width: 100%;"><strong style="color:#B0FFB0;">Back</strong> </button>
 </div>
 
 
@@ -508,7 +502,7 @@ E-Commerce
 `;
 
   const Portfolio = `
-<div class="content" style="font-size: 5rem;  font-family: 'Press Start 2P', cursive; padding: 20px; margin-bottom: 20px; ">
+<div class="content" style="font-size: 4.6rem;  font-family: 'Press Start 2P', cursive; padding: 20px; margin-bottom: 20px; ">
   <h1 style="  text-align: center; text-transform: uppercase;font-family: 'Press Start 2P', cursive; margin-bottom: 200px; font-size= 3rem;  color: #FFAA00; text-shadow: 
     1px 1px 0 #FF0000, 
     2px 2px 0 #FF0000, 
@@ -526,19 +520,19 @@ E-Commerce
     14px 14px 0 #FF0000, 
     15px 15px 0 #FF0000;">
     Portfolio
-  </h1>  <p style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px;">I've ventured into the digital realm by crafting a 3D portfolio website, leveraging the power of Three.js and CSS3DRenderer, combined with the efficiency of SvelteKit. This innovative platform showcases my work and immerses visitors in a fully interactive 3D environment.</p>
-  <ul style="font-size: 4rem; line-height: 1.5; margin-bottom: 50px;">
-    <li style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px;"><strong style="color: #FFD700;">Highlights:</strong>
+  </h1>  <p style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px;">I wanted to challange myself and create something different for my own website, that is why i chose Three.js and CSS3DRenderer, combined with the efficiency of SvelteKit.</p>
+  <ul style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 50px;">
+    <li style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px;"><strong style="color: #FFD700;">Highlights:</strong>
       <ul>
-        <li style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px;">Interactive 3D Experience with Three.js.</li>
-        <li style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px;">Seamless Integration using CSS3DRenderer.</li>
-        <li style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px;">Built with the modern framework of SvelteKit.</li>
-        <li style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px;">Original 3D models enhancing the visual narrative.</li>
+        <li style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px;">Interactive 3D Experience with Three.js.</li>
+        <li style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px;">Seamless Integration using CSS3DRenderer.</li>
+        <li style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px;">Built with the modern framework of SvelteKit.</li>
+        <li style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px;">Original 3D models enhancing the visual narrative.</li>
       </ul>
     </li>
   </ul>
 
-<button id="my-button6" style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px; width: 100%;" ><strong style=" color: #B0FFB0;" >Back</strong></button>
+<button id="my-button6" style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px; width: 100%;" ><strong style=" color: #B0FFB0;" >Back</strong></button>
 </div>
 
 
@@ -548,7 +542,7 @@ E-Commerce
   const caroFortress = `
 
 
-<div class="content" style="font-size: 5rem;  font-family: 'Press Start 2P', cursive; padding: 20px; margin-bottom: 20px; ">
+<div class="content" style="font-size: 4.6rem;  font-family: 'Press Start 2P', cursive; padding: 20px; margin-bottom: 20px; ">
   <h1 style="  text-align: center; text-transform: uppercase;font-family: 'Press Start 2P', cursive; margin-bottom: 200px; font-size= 3rem;  color: #FFAA00; text-shadow: 
     1px 1px 0 #FF0000, 
     2px 2px 0 #FF0000, 
@@ -596,7 +590,7 @@ E-Commerce
 
 
 
-<button id="my-button1" style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px; width: 100%;" ><strong style=" color: #B0FFB0;" >Back</strong></button>
+<button id="my-button1" style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px; width: 100%;" ><strong style=" color: #B0FFB0;" >Back</strong></button>
 
 
 `;
@@ -605,7 +599,7 @@ E-Commerce
 
 
 
-  <div class="content" style="font-size: 5rem;  font-family: 'Press Start 2P', cursive; padding: 20px; margin-bottom: 20px; ">
+  <div class="content" style="font-size: 4.6rem;  font-family: 'Press Start 2P', cursive; padding: 20px; margin-bottom: 20px; ">
   <h1 style="  text-align: center; text-transform: uppercase;font-family: 'Press Start 2P', cursive; margin-bottom: 200px; font-size= 3rem;  color: #FFAA00; text-shadow: 
     1px 1px 0 #FF0000, 
     2px 2px 0 #FF0000, 
@@ -643,7 +637,7 @@ E-Commerce
 </div>
 
 
-<button id="my-button2" style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px; width: 100%;" ><strong style=" color: #B0FFB0;" >Back</strong></button>
+<button id="my-button2" style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px; width: 100%;" ><strong style=" color: #B0FFB0;" >Back</strong></button>
 
 
 
@@ -653,7 +647,7 @@ E-Commerce
   const caroMathe = `
 
 
-<div class="content" style="font-size: 5rem;  font-family: 'Press Start 2P', cursive; padding: 20px; margin-bottom: 20px; ">
+<div class="content" style="font-size: 4.6rem;  font-family: 'Press Start 2P', cursive; padding: 20px; margin-bottom: 20px; ">
   <h1 style="  text-align: center; text-transform: uppercase;font-family: 'Press Start 2P', cursive; margin-bottom: 200px; font-size= 3rem;  color: #FFAA00; text-shadow: 
     1px 1px 0 #FF0000, 
     2px 2px 0 #FF0000, 
@@ -693,7 +687,7 @@ E-Commerce
   
 </div>
 
-<button id="my-button4" style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px; width: 100%;" ><strong style=" color: #B0FFB0;" >Back</strong></button>
+<button id="my-button4" style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px; width: 100%;" ><strong style=" color: #B0FFB0;" >Back</strong></button>
 
 
 
@@ -703,7 +697,7 @@ E-Commerce
   const caroGym = `
 
 
-<div class="content" style="font-size: 5rem;  font-family: 'Press Start 2P', cursive; padding: 20px; margin-bottom: 20px; ">
+<div class="content" style="font-size: 4.6rem;  font-family: 'Press Start 2P', cursive; padding: 20px; margin-bottom: 20px; ">
   <h1 style="  text-align: center; text-transform: uppercase;font-family: 'Press Start 2P', cursive; margin-bottom: 200px; font-size= 3rem;  color: #FFAA00; text-shadow: 
     1px 1px 0 #FF0000, 
     2px 2px 0 #FF0000, 
@@ -737,7 +731,7 @@ E-Commerce
   
 
 
-<button id="my-button3" style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px; width: 100%;" ><strong style=" color: #B0FFB0;" >Back</strong></button>
+<button id="my-button3" style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px; width: 100%;" ><strong style=" color: #B0FFB0;" >Back</strong></button>
 
 
 
@@ -747,7 +741,7 @@ E-Commerce
   const caroDisconnect = `
 
 
-<div class="content" style="font-size: 5rem;  font-family: 'Press Start 2P', cursive; padding: 20px; margin-bottom: 20px; ">
+<div class="content" style="font-size: 4.6rem;  font-family: 'Press Start 2P', cursive; padding: 20px; margin-bottom: 20px; ">
   <h1 style="  text-align: center; text-transform: uppercase;font-family: 'Press Start 2P', cursive; margin-bottom: 200px; font-size= 3rem;  color: #FFAA00; text-shadow: 
     1px 1px 0 #FF0000, 
     2px 2px 0 #FF0000, 
@@ -786,7 +780,7 @@ E-Commerce
 
   
 
-<button id="my-button5" style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px; width: 100%;" ><strong style=" color: #B0FFB0;" >Back</strong></button>
+<button id="my-button5" style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px; width: 100%;" ><strong style=" color: #B0FFB0;" >Back</strong></button>
 
 
 
@@ -798,7 +792,7 @@ E-Commerce
   const caroRosa = `
 
 
-<div class="content" style="font-size: 5rem;  font-family: 'Press Start 2P', cursive; padding: 20px; margin-bottom: 20px; ">
+<div class="content" style="font-size: 4.6rem;  font-family: 'Press Start 2P', cursive; padding: 20px; margin-bottom: 20px; ">
   <h1 style="  text-align: center; text-transform: uppercase;font-family: 'Press Start 2P', cursive; margin-bottom: 200px; font-size= 3rem;  color: #FFAA00; text-shadow: 
     1px 1px 0 #FF0000, 
     2px 2px 0 #FF0000, 
@@ -840,7 +834,7 @@ E-Commerce
 </div>
 
   
-<button id="my-button7" style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px; width: 100%;" ><strong style=" color: #B0FFB0;" >Back</strong></button>
+<button id="my-button7" style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px; width: 100%;" ><strong style=" color: #B0FFB0;" >Back</strong></button>
 
 
 
@@ -851,7 +845,7 @@ E-Commerce
   const caroPort = `
 
 
-<div class="content" style="font-size: 5rem;  font-family: 'Press Start 2P', cursive; padding: 20px; margin-bottom: 20px; ">
+<div class="content" style="font-size: 4.6rem;  font-family: 'Press Start 2P', cursive; padding: 20px; margin-bottom: 20px; ">
   <h1 style="  text-align: center; text-transform: uppercase;font-family: 'Press Start 2P', cursive; margin-bottom: 200px; font-size= 3rem;  color: #FFAA00; text-shadow: 
     1px 1px 0 #FF0000, 
     2px 2px 0 #FF0000, 
@@ -906,7 +900,7 @@ E-Commerce
 
 
 
-<button id="my-button8" style="font-size: 4rem; line-height: 1.5; margin-bottom: 10px; width: 100%;" ><strong style=" color: #B0FFB0;" >Back</strong></button>
+<button id="my-button8" style="font-size: 4.6rem; line-height: 1.5; margin-bottom: 10px; width: 100%;" ><strong style=" color: #B0FFB0;" >Back</strong></button>
   
 
 
@@ -931,7 +925,7 @@ E-Commerce
       lookAt: new THREE.Vector3(0, 0, 0),
     },
     {
-      position: new THREE.Vector3(-100, 180, 3700),
+      position: new THREE.Vector3(-100, 180, 4500),
       lookAt: new THREE.Vector3(0, 0, 0),
     },
     {
@@ -975,8 +969,12 @@ E-Commerce
       function (gltf) {
         computer = gltf.scene;
         computer.position.set(-300, -2800, 1200); // Adjust position as needed
-        computer.scale.set(7500, 6900, 3000); // Adjust scale as needed
+        computer.scale.set(7500, 6900, 3500); // Adjust scale as needed
         computer.rotation.y = -0.04;
+
+        // computer.position.set(-300, -2000, 1200); // Adjust position as needed
+        // computer.scale.set(4500, 3900, 500);
+
 
         scene.add(computer); // Add the model directly to the scene
 
@@ -1261,7 +1259,7 @@ E-Commerce
     controls.maxPolarAngle = Math.PI / 2; // Maximum vertical rotation angle
 
     controls.minDistance = 2980; // Minimum distance to target (zoom in boundary)
-    controls.maxDistance = 3700;
+    controls.maxDistance = 4500;
   }
 
   function animate(webGLRenderer) {
@@ -1305,15 +1303,53 @@ E-Commerce
     }, 2000);
   }
 
+
+
+
+//   function adjustContainerStyles() {
+//   const container = document.querySelector('.container');
+
+//   // Media query for devices with a max-width of 768px
+//   if (window.matchMedia('(max-width: 768px)').matches) {
+//     containers.forEach(container => {
+//       container.style.width = '600px';
+//       container.style.fontSize = '14px';
+//     });
+//   } 
+//   // Media query for devices with a max-width of 480px
+//   else if (window.matchMedia('(max-width: 480px)').matches) {
+//     containers.forEach(container => {
+//       container.style.width = '100%';
+//       container.style.fontSize = '12px';
+//     });
+//   }
+//   // Default styles for other conditions
+//   else {
+//     containers.forEach(container => {
+//       // Reset or define default styles here if needed
+//     });
+//   }
+// }
+
+
+
+
   /////////////////////////////////////////////////
 
   onMount(() => {
+
+
+
+
+
     terminal();
     sceneSetup();
     camerSetUp();
     // createButtons();
     createCube();
     load3DModel();
+
+
 
     animate(webGLRenderer);
     window.addEventListener("resize", () => onWindowResize(webGLRenderer));
@@ -1330,6 +1366,14 @@ E-Commerce
     document.getElementById("git").addEventListener("click", function () {
       window.open("https://github.com/Mohammed87FS", "_blank");
     });
+
+//     // Initial adjustment on page load
+// adjustContainerStyles();
+
+// // Add event listener for window resize to adjust styles dynamically
+// window.addEventListener('resize', adjustContainerStyles);
+
+
   });
 
   ///////////////////////////////////////////////////
@@ -1380,7 +1424,7 @@ E-Commerce
   </div>
 </div>
 
-<div bind:this={container} style="width: 100%; height: 88vh;"></div>
+<div bind:this={container} class="container" style="width: 100%; height: 88vh;"></div>
 <footer class="footer">
   <img
     src="/insta.svg"
@@ -1394,7 +1438,7 @@ E-Commerce
 </footer>
 
 <style>
-  
+ 
 
   .spacer {
     width: 4%; /* Adjust this width to control the shift */
